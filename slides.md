@@ -183,17 +183,17 @@ Notes:
 ![first table](img/first-table.jpg) <!-- .element class="plain stretch" style="max-height: 45vh;" -->
 
 Notes:
-* Can't be here tonight – it's "in production"
-* First one is from an old server cluster, ~40 pristine, identical shaped/weighted 40GB drives)
-* Considered a few other designs but this is light enough to carry (12kg) but
-  still sturdy enough to hold weight / be upright
+* First HDD can't be here tonight – it's "in production"
+* Old server cluster: identical 40GB drives, perfect
+* Considered other designs but this is light to carry (12kg) and
+  sturdy/large enough to stay upright & hold weight
 
-  * Original plans were for a mega table of 108 drives / 65kg @ 600g each
+  * Original plans were 108 drives / 65kg @ 600g each: NO!
 
 * Stick w/ Liquid nails!
-* Rubber stoppers on top to support/hold the glass
+* Rubber stoppers on top to hold the glass
 * Glass from 2nd hand store
-* Total bill: $10
+* Total bill: ~$10
 * And maybe it's not as cool as...
 
 ---
@@ -255,8 +255,8 @@ Notes:
 
 Notes:
 * **1 MIN TO GO**
-* As I build more, they're getting awesome
-* WD's colour range look cool - failed red/blue drives on top
+* As I build more, they're getting fancier
+* WD's colour range - failed red 3TB drives now...
 
 ---
 
@@ -267,7 +267,7 @@ Notes:
 
 Notes:
 * Average Australian creates 23kg of ewaste a year - this is 12kg alone
-* What could you make?
+* What could you make / save from ?
 
 ---
 
@@ -275,6 +275,7 @@ Notes:
 
 * [Officeworks](https://www.officeworks.com.au/information/about-us/sustainability/environment/recycling) (➡ MRI)
 * [MRI DropZones](https://mri.com.au/dropzone/)
+* [Townsville City Council Transfer Stations](https://www.townsville.qld.gov.au/water-waste-and-environment/waste-and-recycling/waste-facilities)
 * ...?
 
 Notes:
