@@ -128,9 +128,9 @@ Search "[JCU OIC](https://www.youtube.com/watch?v=9JLb91c4Lww)" on YouTube...
 
 Notes:
 * What can _WE_ as tech do??
-* Go watch this video
-* Spoiler Alert: I jump out of bins
+* Go watch this video on sustainability
 * Thanks to Lindsay Ward for co-starring
+* Spoiler Alert: I jump out of bins
 
 ---
 
