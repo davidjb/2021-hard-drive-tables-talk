@@ -267,7 +267,7 @@ Notes:
 
 Notes:
 * Average Australian creates 23kg of ewaste a year - this is 12kg alone
-* What could you make / save from ?
+* What could you make / save from the bin?
 
 ---
 
@@ -312,6 +312,16 @@ Notes:
 David Beitey <!-- .element: style="color: #fff" -->
 <br>
 <all.ur.drives@davidjb.com> <!-- .element: style="color: #fff; text-decoration: underline;" -->
+
+---
+
+![Mac II couch](img/mac2couch.jpg) <!-- .element class="plain stretch" style="max-height: 80vh;" -->
+
+https://web.archive.org/web/20080421165322/https://www.bradlands.com/scrapbooks/mac2couch.html <!-- .element style="font-size: 50%;" -->
+
+Notes:
+* Mac II couch
+* Made with RRP $100k of Mac IIs
 
 ---
 
